@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richhapal
-- 🌱 I’m currently learning MERN Stack Developer from crio.com
+- 🌱 I’m currently learning MERN Stack Developer from crio.do
 
 <!---
 richhapal/richhapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
