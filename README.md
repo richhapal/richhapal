@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack Developer from crio.do
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=richhapal>&theme=dark" />
+![Richhapal's GitHub stats](https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=radical)
 
 <!---
 richhapal/richhapal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
