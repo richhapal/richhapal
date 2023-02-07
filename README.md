@@ -1,4 +1,4 @@
-<h1 >👋 Hi, I’m Richhapal</h1>
+<h1 >👋 Hi, I’m <a href="" target="_blank">Richhapal Choudhary</a> </h1>
 - 
 - 🌱 I’m currently learning MERN Stack Developer from crio.do
 
