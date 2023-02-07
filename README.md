@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Richhapal
+<h1>👋 Hi, I’m Richhapal</h1>
+- 
 - 🌱 I’m currently learning MERN Stack Developer from crio.do
 
 <!---
