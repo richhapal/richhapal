@@ -4,9 +4,9 @@
 
 <!-- ![Richhapal 's GitHub stats](https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=radical)
  -->
-<img src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=radical"  />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=richhapal&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=tokyonight"  />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=richhapal&layout=compact&theme=tokyonight" />
 
 
-<img src="http://ionicabizau.github.io/github-profile-languages/?user=richhapal"/>
+
 
