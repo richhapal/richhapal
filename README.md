@@ -1,4 +1,4 @@
-<h1 >👋 Hi, I’mRichhapal Choudhary </h1>
+<h1 >👋 Hi, I’m Richhapal Choudhary </h1>
 
 
 
