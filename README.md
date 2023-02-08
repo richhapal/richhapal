@@ -15,5 +15,6 @@
 <button>Hi</button>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  />
+<a href="https://leetcode.com/richhapal_choudhary/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" >  </a>
 
-![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
