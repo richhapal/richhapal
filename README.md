@@ -14,6 +14,7 @@
 <!-- <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="32" width="32" /> -->
 <button>Hi</button>
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  />
+
 
 
