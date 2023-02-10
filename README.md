@@ -1,15 +1,27 @@
 <h1 align="center">👋 Hi, I’m Richhapal Choudhary </h1>
 <h3 align="center" > A passionate Frontend and FullStack Developer</h3>
 
+<hr>
+<h2>About Me</h2>
 
 🌱 I’m currently learning MERN Stack Developer from crio.do
 
+<hr>
 
-
+<h2>Connect With Me</h2>
+<p align="left">
+ <a src="" target="blank"><img  alt="LinkedIn"  /></a>
+ <a src="www.hackerrank.com" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=HackerRank"  /></a>
+</p>
+<hr>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <h3>Top Languages</h3>
 <p align="left" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richhapal&layout=compact&theme=tokyonight" />
 </p>
+
+
+<hr>
 
 
 
