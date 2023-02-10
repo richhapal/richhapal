@@ -10,12 +10,15 @@
 
 <h2>Connect With Me</h2>
 <p align="left">
+ <a href="https://www.github.com/richhapal/"  target="blank"><img src="https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000"  alt="Portfolio"  /></a>
  <a href="https://www.linkedin.com/in/richhapalchoudhary/"  target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  /></a>
   <a href="https://www.hackerrank.com/richhapal10/"  target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Hackerrank"  /></a> 
  <a href="https://leetcode.com/richhapal_choudhary/"  target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LeetCode"  /></a>  
 </p>
   
-
+<!-- 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
+<!--   https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000 -->
+  
   
 <hr>
 
