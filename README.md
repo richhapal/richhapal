@@ -33,6 +33,7 @@
 <p>Frontend</p>
 <p>
  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whitee" alt="next" />
   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="router" />
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -46,9 +47,22 @@
  <img  src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" />
  <img  src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="fontendawesome" />
 </p>
+
 <p>Backend</p>
+<p>
+<img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+<img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt" />
+</p>
 
-
+<p>Tools</p>
+<p>
+<img  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+<img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+<img  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
+</p>
 
 <hr >
 
@@ -75,12 +89,12 @@
 ![](https://komarev.com/ghpvc/?username=richhapal)
 
 <!-- <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="32" width="32" /> -->
-<button>Hi</button>
+
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  /> -->
 <!-- <a href="https://leetcode.com/richhapal_choudhary/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=for-the-badge&logo=LinkedIn&logoColor=blue" >  </a>
  -->
-<a href="https://www.linkedin.com/in/richhapalchoudhary/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >  </a>
-
+<!-- <a href="https://www.linkedin.com/in/richhapalchoudhary/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >  </a>
+ -->
 <!-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white -->
 <!-- https://leetcode.com/richhapal_choudhary/ -->
