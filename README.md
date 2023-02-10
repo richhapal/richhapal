@@ -4,14 +4,13 @@
 
 🌱 I’m currently learning MERN Stack Developer from crio.do
 
-##languages
-
+<h3>languages</h3>
 <p align="left" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richhapal&layout=compact&theme=tokyonight" />
 </p>
 
-##My-Gits-Stats
 
+<h3>My Gits Statss</h3>
 <p align="left" >
 <img  src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=tokyonight"  />
 <img heigth="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richhapal&layout=compact&theme=tokyonight" />
