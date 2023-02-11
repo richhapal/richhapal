@@ -3,19 +3,24 @@
 <img widht="100" height="100"  src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
 </div>
 
+<div align="center">
+ <a href="https://twitter.com/RICHHAPALCHOUD3" ><img src=""  /></a>
+ <img src="https://komarev.com/ghpvc/?username=richhapal" />
+</div>
 
-<!-- <img  widht="100" height="100"   src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" /> -->
+<!--  -->
 
 
-<!-- <h1 align="center">👋 Hi, I’m Richhapal Choudhary </h1>
-<h3 align="center" > A passionate Frontend and FullStack Developer</h3> -->
-<p  align="center">
-<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=3001&color=F73E24&background=FFDA9D00&center=true&vCenter=true&width=501&height=60&lines=👏I'm+Richhapal+Choudhary" alt="Typing SVG" />
-</p>
+<div  align="center" >
+ <h1>👏Hi, I'm Richhapal Choudhary</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3001&pause=1000&color=C30000&center=true&width=435&height=58&lines=A+Frontend+Developer;A+Full+Stack+Developer+" alt="Typing SVG" />
+</div>
+
+
+
 
 
 <!-- <hr> -->
-
 
 
 <h2>About Me</h2>
@@ -102,7 +107,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=richhapal)
+
 
 <!-- <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="32" width="32" /> -->
 
