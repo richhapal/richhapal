@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
- <a href="https://twitter.com/RICHHAPALCHOUD3" ><img src=""  /></a>
- <img src="https://komarev.com/ghpvc/?username=richhapal" />
+ <img height="28" src="https://komarev.com/ghpvc/?username=richhapal" />
 </div>
 
 <!--  -->
@@ -16,7 +15,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3001&pause=1000&color=C30000&center=true&width=435&height=58&lines=A+Frontend+Developer;A+Full+Stack+Developer+" alt="Typing SVG" />
 </div>
 
-
+<br/>
+<br/>
 
 
 
@@ -24,8 +24,14 @@
 
 
 <h2>About Me</h2>
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"    />
+<div align="left">
+ <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
+  <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
+  <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
+  <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
+</div>
 
-🌱 I’m currently learning MERN Stack Developer from crio.do
 
 <!-- <hr> -->
 
@@ -36,11 +42,10 @@
   <a href="https://www.hackerrank.com/richhapal10/"  target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Hackerrank"  /></a> 
  <a href="https://leetcode.com/richhapal_choudhary/"  target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LeetCode"  /></a>  
  <a href="https://instagram.com/thenotoriousrich380/"  target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"  /></a>  
+ <a href="https://twitter.com/RICHHAPALCHOUD3" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a>
 </p>
-  
-<!-- 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
-<!--   https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000 -->
-<!--   https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white -->
+
+
   
 <hr>
 
@@ -102,17 +107,12 @@
 <!-- <h3>My Gits Statss</h3>
 <p align="left" >
 <img  src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=tokyonight"  />
-</p>
- -->
+</p> -->
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  />
 
 
-
-<!-- <img src="https://cdn.simpleicons.org/leetcode/ffffff" height="32" width="32" /> -->
-
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  /> -->
 <!-- <a href="https://leetcode.com/richhapal_choudhary/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=for-the-badge&logo=LinkedIn&logoColor=blue" >  </a>
  -->
 <!-- <a href="https://www.linkedin.com/in/richhapalchoudhary/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >  </a>
