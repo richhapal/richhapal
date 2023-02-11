@@ -1,14 +1,28 @@
+
+<div align="center">
+<img widht="100" height="100"  src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
+</div>
+
+
+<!-- <img  widht="100" height="100"   src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" /> -->
+
+
 <!-- <h1 align="center">👋 Hi, I’m Richhapal Choudhary </h1>
 <h3 align="center" > A passionate Frontend and FullStack Developer</h3> -->
+<p  align="center">
+<img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=3001&color=F73E24&background=FFDA9D00&center=true&vCenter=true&width=501&height=60&lines=👏I'm+Richhapal+Choudhary" alt="Typing SVG" />
+</p>
 
-<a align="center" href="https://github.com/richhapal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=3001&color=F73E24&background=FFDA9D00&center=true&vCenter=true&width=501&height=60&lines=I'm+Richhapal+Choudhary" alt="Typing SVG" /></a>
 
-<hr>
+<!-- <hr> -->
+
+
+
 <h2>About Me</h2>
 
 🌱 I’m currently learning MERN Stack Developer from crio.do
 
-<hr>
+<!-- <hr> -->
 
 <h2>Connect With Me</h2>
 <p align="left">
