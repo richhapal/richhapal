@@ -4,25 +4,18 @@
 </div>
 
 <div align="center">
- <img height="28" src="https://komarev.com/ghpvc/?username=richhapal" />
+ <img height="28" src="https://komarev.com/ghpvc/?username=richhapal"  />
 </div>
 
 <!--  -->
-
-
 <div  align="center" >
  <h1>👏Hi, I'm Richhapal Choudhary</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3001&pause=1000&color=C30000&center=true&width=435&height=58&lines=A+Frontend+Developer;A+Full+Stack+Developer+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3001&pause=1000&color=C30000&center=true&width=435&height=45&lines=A+Frontend+Developer;A+Full+Stack+Developer+" alt="Typing SVG" />
 </div>
 
-<br/>
-<br/>
 
 
-
-<!-- <hr> -->
-
-
+<!--  -->
 <h2>About Me</h2>
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"    />
 <div align="left">
@@ -32,7 +25,8 @@
   <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
 </div>
 
-
+<br/>
+<br/>
 <!-- <hr> -->
 
 <h2>Connect With Me</h2>
