@@ -21,8 +21,8 @@
 <div align="left">
    <p>🔭 I’m currently looking for frontend developer opportunities</p>
  <p>🌱 I’m currently learning MERN Stack Developer from crio.do</p>
-  <p>💬 Ask me about JS, ReactJS, and CSS frameworks</p>
-  <p>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users" target="blank">richhapal10@hotmail.com</a></p>
+  <p>💬 Ask me about JavaScript, ReactJS and MERN Stack </p>
+  <p>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">richhapal10@hotmail.com</a></p>
 </div>
 
 <br/>
