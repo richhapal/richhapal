@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I’m Richhapal Choudhary </h1>
-<h3 align="center" > A passionate Frontend and FullStack Developer</h3>
+<!-- <h1 align="center">👋 Hi, I’m Richhapal Choudhary </h1>
+<h3 align="center" > A passionate Frontend and FullStack Developer</h3> -->
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=3001&color=F73E24&background=FFDA9D00&center=true&vCenter=true&width=501&height=60&lines=I'm+Richhapal+Choudhary" alt="Typing SVG" /></a>
 
 <hr>
 <h2>About Me</h2>
