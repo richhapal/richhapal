@@ -16,11 +16,11 @@
 
 
 <!--  -->
-<h2>About Me</h2>
+<h2><img height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/7719/7719482.png"  /> ABOUT ME</h2>
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"    />
 <div align="left">
  <ul>
- <li>🔭 I’m currently looking for frontend developer opportunities</li>
+ <li>🔎 I’m looking for frontend developer opportunities</li>
   <li>🌱 I’m currently learning MERN Stack Developer from <a href="https://www.crio.do/" target="blank">CRIO.DO</a></li>
  <li>💬 Ask me about JavaScript, ReactJS and MERN Stack</li>
  <li>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">richhapal10@hotmail.com</a></li>
@@ -31,7 +31,8 @@
 <br/>
 <!-- <hr> -->
 
-<h2>Connect With Me</h2>
+
+<h2><img  height="20" width="25" src="https://cdn-icons-png.flaticon.com/512/2971/2971416.png" />  CONNECT WITH ME</h2>
 <p align="left">
  <a href="https://www.github.com/richhapal/"  target="blank"><img src="https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000"  alt="Portfolio"  /></a>
  <a href="https://www.linkedin.com/in/richhapalchoudhary/"  target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  /></a>
@@ -45,14 +46,15 @@
   
 <hr>
 
-<h2>Skills</h2>
-<p>Programming Language</p>
+<h2><img  height="20" src="https://cdn-icons-png.flaticon.com/512/4413/4413562.png" /> SKILLS</h2>
+
+<p><img  height="12" src="https://cdn-icons-png.flaticon.com/512/9168/9168209.png" /> Programming Language</p>
 <p>
 <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
-<p>Frontend</p>
+<p><img height="12" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"  /> Frontend Technologies</p>
 <p>
  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   <img  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whitee" alt="next" />
@@ -70,7 +72,7 @@
  <img  src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="fontendawesome" />
 </p>
 
-<p>Backend</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/8099/8099229.png" height="12"  /> Backend Technologies</p>
 <p>
 <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
@@ -78,7 +80,8 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt" />
 </p>
 
-<p>Tools</p>
+
+<p>🛠️Tools</p>
 <p>
 <img  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
@@ -99,19 +102,14 @@
 
 
 
+<!-- 
+ <h3>My Gits Statss</h3>
+ <p align="left" >
+ <img  src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=tokyonight"  />
 
-<!-- <h3>My Gits Statss</h3>
-<p align="left" >
-<img  src="https://github-readme-stats.vercel.app/api?username=richhapal&show_icons=true&theme=tokyonight"  />
-</p> -->
-
+ </p> 
+-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richhapal&theme=tokyonight"  />
 
 
-<!-- <a href="https://leetcode.com/richhapal_choudhary/" ><img src="https://img.shields.io/badge/-LinkedIn-FFA116?style=for-the-badge&logo=LinkedIn&logoColor=blue" >  </a>
- -->
-<!-- <a href="https://www.linkedin.com/in/richhapalchoudhary/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >  </a>
- -->
-<!-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white -->
-<!-- https://leetcode.com/richhapal_choudhary/ -->
