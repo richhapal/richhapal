@@ -34,7 +34,7 @@
 
 <h2><img  height="20" width="25" src="https://cdn-icons-png.flaticon.com/512/2971/2971416.png" />  CONNECT WITH ME</h2>
 <p align="left">
- <a href="https://richhapal.netlify.app/"  target="blank"><img src="https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000"  alt="Portfolio"  /></a>
+ <a href="https://portfolio-richhapal.vercel.app/"  target="blank"><img src="https://img.shields.io/badge/my_portfolio-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000"  alt="Portfolio"  /></a>
  <a href="https://www.linkedin.com/in/richhapalchoudhary/"  target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  /></a>
   <a href="https://www.hackerrank.com/richhapal10/"  target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Hackerrank"  /></a> 
  <a href="https://leetcode.com/richhapal_choudhary/"  target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LeetCode"  /></a>  
