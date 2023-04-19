@@ -20,8 +20,8 @@
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"    />
 <div align="left">
  <ul>
- <li>🔎 I’m looking for frontend developer opportunities</li>
-  <li>🌱 I’m currently learning MERN Stack Developer from <a href="https://www.crio.do/" target="blank">CRIO.DO</a></li>
+<!--  <li>🔎 I’m looking for frontend developer opportunities</li> -->
+  <li>🌱 I’m currently working as SOFTWARE ENGINEER at GEEKSFORGEEKS</li>
  <li>💬 Ask me about JavaScript, ReactJS and MERN Stack</li>
  <li>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">richhapal10@hotmail.com</a></li>
  </ul>
