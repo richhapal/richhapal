@@ -56,8 +56,9 @@
 </p>
 <p><img height="12" src="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"  /> Frontend Technologies</p>
 <p>
- <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   <img  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=whitee" alt="next" />
+ <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+<img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="router" />
  <img  src="https://img.shields.io/badge/restapi-5E5C5C?style=for-the-badge&logo=restapi&logoColor=white" alt="router" />
