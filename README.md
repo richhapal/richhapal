@@ -23,7 +23,7 @@
 <!--  <li>🔎 I’m looking for frontend developer opportunities</li> -->
   <li>🌱 I’m currently working as Software Engineer at <a href="https://www.pw.live/">Physics Wallah</a> </li>
  <li>💬 Ask me about JavaScript, ReactJS and MERN Stack</li>
- <li>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">richhapal10@hotmail.com</a></li>
+ <li>📫 How to reach me <a href="mailto:richhapal10@hotmail?subject=Contact From GitHub Users&body=Hi,Richhapal Choudhary" target="blank">richhapalchoudhary10@gmail.com</a></li>
  </ul>
 </div>
 
